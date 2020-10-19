@@ -11,6 +11,6 @@ Egyptian_Mau_14
 Egyptian_Mau_156
 Egyptian_Mau_186
 Ragdoll_199
-samoyed_10
 saint_bernard_15
+samoyed_10
 ```
