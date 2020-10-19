@@ -4,14 +4,13 @@ Several annotation files stored in .XML are missing as 7393 image items correspo
 
 The following should be included:
 ```
-Egyptian_Mau_14
-saint_bernard_15
-Ragdoll_199
-Egyptian_Mau_186
-Bengal_175
-samoyed_10
-Egyptian_Mau_156
 Abyssinian_104
 Bengal_111
+Bengal_175
+Egyptian_Mau_14
+Egyptian_Mau_156
+Egyptian_Mau_186
+Ragdoll_199
+samoyed_10
+saint_bernard_15
 ```
-
