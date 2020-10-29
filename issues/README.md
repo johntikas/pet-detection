@@ -7,6 +7,7 @@ Dataset errors
 
 Checkpoint errors
 * [#8892](https://github.com/tensorflow/models/issues/8892) - Object Detection API 2.0, error with load checkpoints: A checkpoint was restored (e.g. tf.train.Checkpoint.restore or tf.keras.Model.load_weights) but not all checkpointed values were used.
+* [#43554](https://github.com/tensorflow/models/issues/43554) - WARNING:tensorflow:A checkpoint was restored (e.g. tf.train.Checkpoint.restore or tf.keras.Model.load_weights) but not all checkpointed values were used. See above for specific issues.
 
 ## Stackoverflow questions
 Module import issues
